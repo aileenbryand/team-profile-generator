@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*JUMBOTRON*/
+.my-team{
+    text-align: center;
+    color: antiquewhite;
+   
+}
+
+.jumbotron-fluid{
+background-color: #BF045B ;
+height: 15vh;
+}
+
+.container{
+   
+    height: 15vh;
+}
+
+
+/*CARDS*/
+
+.card{
+    /* border: gray solid 0.5px; */
+    box-shadow: 2px 2px #D7D9D7;
+}
+
+.card-title{
+    background-color: #4590F7;
+    height: 5vh;
+}
+
+.card-body{
+    background-color: #F2F2F2;
+}
